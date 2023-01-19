@@ -3,8 +3,6 @@ layout: '../components/layouts/blog.astro'
 title: '職務経歴書'
 ---
 
-# 職務経歴書
-
 ## 基本情報
 
 | key | value |
@@ -18,10 +16,11 @@ title: '職務経歴書'
 
 ## 各種アカウント
 
-[![GitHub](https://img.shields.io/badge/todays--mitsui-12100E?style=flat&logo=Github&logoColor=white)](https://github.com/todays-mitsui)
-[![Twitter](https://img.shields.io/badge/@____Mitsui-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/__Mitsui)
-[![Qiita](https://img.shields.io/badge/todays--mitsui-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/todays-mitsui)
+[![GitHub](https://img.shields.io/badge/todays--mitsui-12100E?style=flat&logo=GitHub&logoColor=white)](https://github.com/todays-mitsui)
+[![Twitter](https://img.shields.io/badge/@____Mitsui-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/__Mitsui)
+[![Qiita](https://img.shields.io/badge/todays--mitsui-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/todays-mitsui)
 [![Blog:無駄と文化](https://img.shields.io/badge/blog:%E7%84%A1%E9%A7%84%E3%81%A8%E6%96%87%E5%8C%96-242527?style=flat&logoColor=white)](https://blog.mudatobunka.org/)
+[![Facebook](https://img.shields.io/badge/mitsui.shogo-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mitsui.shogo)
 
 ---
 
@@ -68,7 +67,7 @@ CMS つき Web サイトの制作、またその基盤となる CMS の開発に
 - **プロジェクト規模：**
   - 平均 3～5 人のチーム開発
 - **役割：**
-  プログラマ - 要件整理, 実装, テスト, 保守
+  - プログラマ - 要件整理, 実装, テスト, 保守
 - **プロジェクト詳細：**
   - WordPress をベースとしたサイト制作 (管理画面カスタマイズを含む)
   - WordPress のブロックエディタに対応したカスタムブロックの開発
@@ -139,11 +138,11 @@ JavaScript 関連の流行りの技術についてハンズオンでちょっと
 
 | プロジェクト名 | 使用言語 | 概要 | 関連リンク |
 |---|---|---|---|
-| [skeleton-validator](https://github.com/todays-mitsui/skeleton-validator) | ![TypeScript](https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white) | フォームの入力値をリアクティブに検証することに主眼を置いたミニマルな JavaScript バリデータです | |
-| [mhatl.js](https://github.com/todays-mitsui/mhatl.js) | ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | MCMC (メトロポリス・ヘイスティング法) の動作原理を JavaScript でビジュアルに表現したデモです | [デモ - mhatl.js](https://todays-mitsui.github.io/mhatl.js/) |
-| [mogul.js](https://github.com/todays-mitsui/mogul.js) | ![TypeScript](https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white) | 型無しラムダ計算の簡約をインタラクティブにステップ表示できる計算機です | [デモ - mogul.js](https://mogul-lang.mudatobunka.org/) | 
-| [rhino.js](https://github.com/todays-mitsui/rhino.js) | ![JavaScript](https://img.shields.io/badge/-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | サイコロをテーマにしたメディアアートです。2次元物理演算エンジンを使用しています | [デモ - 🎲 rhino.js](https://todays-mitsui.github.io/rhino.js/) |
-| [lambda2ski](https://github.com/todays-mitsui/lambda2ski) | ![Haskell](https://img.shields.io/badge/-9E358F?style=flat&logo=Haskell&logoColor=white) | 関数抽象(無名関数) を SKI コンビネータとして展開するトランスレータです | |
+| [skeleton-validator](https://github.com/todays-mitsui/skeleton-validator) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | フォームの入力値をリアクティブに検証することに主眼を置いたミニマルな JavaScript バリデータです | |
+| [mhatl.js](https://github.com/todays-mitsui/mhatl.js) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | MCMC (メトロポリス・ヘイスティング法) の動作原理を JavaScript でビジュアルに表現したデモです | [デモ](https://todays-mitsui.github.io/mhatl.js/) |
+| [mogul.js](https://github.com/todays-mitsui/mogul.js) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | 型無しラムダ計算の簡約をインタラクティブにステップ表示できる計算機です | [デモ](https://mogul-lang.mudatobunka.org/) | 
+| [rhino.js](https://github.com/todays-mitsui/rhino.js) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | サイコロをテーマにしたメディアアートです。2次元物理演算エンジンを使用しています | [デモ](https://todays-mitsui.github.io/rhino.js/) |
+| [lambda2ski](https://github.com/todays-mitsui/lambda2ski) | ![Haskell](https://img.shields.io/badge/-Haskell-9E358F?style=flat&logo=Haskell&logoColor=white) | 関数抽象(無名関数) を SKI コンビネータとして展開するトランスレータです | [紹介記事](https://qiita.com/todays-mitsui/items/39ca5ee274213471796c) |
 
 ---
 
