@@ -1,5 +1,5 @@
 ---
-layout: '../components/layouts/blog.astro'
+layout: '../layouts/blog.astro'
 title: '職務経歴書'
 ---
 
