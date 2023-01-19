@@ -139,10 +139,10 @@ JavaScript 関連の流行りの技術についてハンズオンでちょっと
 | プロジェクト名 | 使用言語 | 概要 | 関連リンク |
 |---|---|---|---|
 | [skeleton-validator](https://github.com/todays-mitsui/skeleton-validator) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | フォームの入力値をリアクティブに検証することに主眼を置いたミニマルな JavaScript バリデータです | |
-| [mhatl.js](https://github.com/todays-mitsui/mhatl.js) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | MCMC (メトロポリス・ヘイスティング法) の動作原理を JavaScript でビジュアルに表現したデモです | [デモ](https://todays-mitsui.github.io/mhatl.js/) |
-| [mogul.js](https://github.com/todays-mitsui/mogul.js) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | 型無しラムダ計算の簡約をインタラクティブにステップ表示できる計算機です | [デモ](https://mogul-lang.mudatobunka.org/) | 
+| [mhatl.js](https://github.com/todays-mitsui/mhatl.js) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | MCMC (メトロポリス・ヘイスティング法) の動作原理を JavaScript でビジュアルに表現したデモです | [デモ](https://todays-mitsui.github.io/mhatl.js/) <br> [解説記事](https://tech.atsu-maru.co.jp/entry/2020/06/30/123646) |
+| [mogul.js](https://github.com/todays-mitsui/mogul.js) | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) | 型無しラムダ計算の簡約をインタラクティブにステップ表示できる計算機です | [デモ](https://mogul-lang.mudatobunka.org/) <br> [解説記事](https://qiita.com/todays-mitsui/items/e28de509b9e1feceb6b4) | 
 | [rhino.js](https://github.com/todays-mitsui/rhino.js) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey) | サイコロをテーマにしたメディアアートです。2次元物理演算エンジンを使用しています | [デモ](https://todays-mitsui.github.io/rhino.js/) |
-| [lambda2ski](https://github.com/todays-mitsui/lambda2ski) | ![Haskell](https://img.shields.io/badge/-Haskell-9E358F?style=flat&logo=Haskell&logoColor=white) | 関数抽象(無名関数) を SKI コンビネータとして展開するトランスレータです | [紹介記事](https://qiita.com/todays-mitsui/items/39ca5ee274213471796c) |
+| [lambda2ski](https://github.com/todays-mitsui/lambda2ski) | ![Haskell](https://img.shields.io/badge/-Haskell-9E358F?style=flat&logo=Haskell&logoColor=white) | 関数抽象(無名関数) を SKI コンビネータとして展開するトランスレータです | [解説記事](https://qiita.com/todays-mitsui/items/39ca5ee274213471796c) |
 
 ---
 
