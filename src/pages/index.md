@@ -1,6 +1,29 @@
 ---
-layout: '../layouts/blog.astro'
 title: '職務経歴書'
+layout: '../layouts/blog.astro'
+
+pdf_options:
+  format: A4
+  margin: 30mm 20mm
+  displayHeaderFooter: true
+  headerTemplate: |-
+    <style>
+      section {
+        margin: 0 auto;
+        font-family: system-ui;
+        font-size: 12px;
+      }
+    </style>
+    <section>
+      職務経歴書 - <span class="date"></span>
+    </section>
+  footerTemplate: |-
+    <section>
+      <div>
+        Page <span class="pageNumber"></span>
+        of <span class="totalPages"></span>
+      </div>
+    </section>
 ---
 
 ## 基本情報

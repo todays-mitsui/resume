@@ -6,7 +6,8 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "astro preview",
+    "build:pdf": "node task/build-pdf.js src/pages/index.md"
   },
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.2",
@@ -14,6 +15,7 @@
     "sass": "^1.57.1"
   },
   "dependencies": {
+    "md-to-pdf": "^5.2.1",
     "rehype-autolink-headings": "^6.1.1",
     "rehype-slug": "^5.1.0",
     "shiki": "^0.10.1"
