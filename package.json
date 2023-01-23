@@ -7,7 +7,7 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "build:pdf": "node task/build-pdf.js src/pages/index.md"
+    "build:pdf": "md-to-pdf src/pages/index.md"
   },
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.2",
