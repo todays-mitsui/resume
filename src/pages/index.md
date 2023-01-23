@@ -11,7 +11,7 @@ pdf_options:
       section {
         margin: 0 auto;
         font-family: system-ui;
-        font-size: 12px;
+        font-size: 10px;
       }
     </style>
     <section>

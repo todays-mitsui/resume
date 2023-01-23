@@ -1,5 +1,6 @@
 # build output
 dist
+src/pages/index.pdf
 
 # dependencies
 node_modules/
