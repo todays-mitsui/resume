@@ -8,9 +8,11 @@ pdf_options:
   displayHeaderFooter: true
   headerTemplate: |-
     <style>
+      @import url(//fonts.googleapis.com/earlyaccess/notosansjapanese.css);
+
       section {
         margin: 0 auto;
-        font-family: system-ui;
+        font-family: "Noto Sans Japanese", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
         font-size: 10px;
       }
     </style>
