@@ -10,6 +10,10 @@ jobs:
     name: build pdf and upload release
     runs-on: ubuntu-latest
     steps:
+      - name: set timezone
+        uses: szenius/set-timezone@v1.0
+        with:
+          timezoneLinux: 'Asia/Tokyo'
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2-beta
         with:
