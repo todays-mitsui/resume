@@ -1,6 +1,7 @@
 # build output
 dist
-src/pages/index.pdf
+src/pages/*.pdf
+src/pages/projects.md
 
 # dependencies
 node_modules/

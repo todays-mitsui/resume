@@ -42,7 +42,7 @@ pdf_options:
 ## 各種アカウント
 
 [![GitHub](https://img.shields.io/badge/todays--mitsui-12100E?style=flat&logo=GitHub&logoColor=white)](https://github.com/todays-mitsui)
-[![Twitter](https://img.shields.io/badge/@____Mitsui-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/__Mitsui)
+[![Twitter](https://img.shields.io/badge/@todays__mitsui-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/todays_mitsui)
 [![Qiita](https://img.shields.io/badge/todays--mitsui-55C500?style=flat&logo=Qiita&logoColor=white)](https://qiita.com/todays-mitsui)
 [![Blog:無駄と文化](https://img.shields.io/badge/blog:%E7%84%A1%E9%A7%84%E3%81%A8%E6%96%87%E5%8C%96-242527?style=flat&logoColor=white)](https://blog.mudatobunka.org/)
 [![Facebook](https://img.shields.io/badge/mitsui.shogo-3B5998?style=flat&logo=Facebook&logoColor=white)](https://www.facebook.com/mitsui.shogo)
@@ -120,7 +120,7 @@ Web ショップの運営の傍ら受注処理の自動化システムを自作�
   - 複数の Web ショップからの受注情報を統合し、在庫情報と突き合わせたうえで出荷日の決定。送り状データの作成までを自動化
   - Haskell+HTML+CSS で管理画面を作成し、担当者が少ない操作で受注処理を行えるよう支援
 - **成果：**
-  - 手作業での送り状データ作成に比べ処理能力が約70倍に向上し、ピーク時のスムーズな出荷対応に貢献
+  - 手作業での送り状データ作成に比べ処理能力が約7倍に向上し、ピーク時のスムーズな出荷対応に貢献
 
 ---
 

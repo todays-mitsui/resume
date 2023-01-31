@@ -7,7 +7,8 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "build:pdf": "md-to-pdf --stylesheet pdf-configs/style.css src/pages/index.md"
+    "build:resume": "md-to-pdf --stylesheet pdf-configs/style.css src/pages/index.md",
+    "build:projects": "md-to-pdf --stylesheet pdf-configs/style.css src/pages/projects.md"
   },
   "devDependencies": {
     "@astrojs/sitemap": "^0.1.2",
