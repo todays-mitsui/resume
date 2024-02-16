@@ -52,6 +52,7 @@ pdf_options:
 ## 保有スキル
 
 - JavaScript / TypeScript + Vue.js / React でのフロントエンド開発・設計
+- PHP / Perl / Rust でのバックエンド開発・設計
 - WordPress 6.1 をベースにした Web サイト制作
 - カスタム WordPress プラグイン開発
 - Webサイトのフロントエンドコーディング (HTML, CSS, jQuery)
@@ -65,6 +66,8 @@ pdf_options:
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=lightgrey)
+![Perl](https://img.shields.io/badge/-Perl-0073A1?style=flat&logo=Perl&logoColor=lightgrey)
+![Rust](https://img.shields.io/badge/-Rust-ef4900?style=flat&logo=Rust&logoColor=lightgrey)
 ![PHP](https://img.shields.io/badge/-PHP-7A86B8?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E54C21?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-016CB4?style=flat&logo=CSS3&logoColor=white)
@@ -85,7 +88,7 @@ pdf_options:
 
 ### 株式会社はてな (2023/04～現在)
 
-マンガビューワの開発に従事しています。  
+マンガビューワの開発に従事しています。
 
 - **プロジェクト規模：**
   - 8 人のチームによるスクラム開発
